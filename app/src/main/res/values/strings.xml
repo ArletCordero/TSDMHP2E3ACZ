@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TSDMHP2E3ACZ</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tfragment1">Pantalla 1</string>
+    <string name="tfragment2">Pantalla 2</string>
+    <string name="tfragment3">Pantalla 3</string>
+    <string name="f1texto">cualquier texto a mostar </string>
+    <string name="f2btn1saluda">Saludar</string>
+</resources>
